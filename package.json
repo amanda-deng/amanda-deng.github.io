@@ -12,7 +12,7 @@
     "react-scripts": "3.3.0",
     "styled-components": "^4.4.1"
   },
-  "homepage": "https://amanda-deng.github.io/site/",
+  "homepage": "https://amanda-deng.github.io/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
