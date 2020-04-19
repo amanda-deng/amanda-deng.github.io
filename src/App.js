@@ -21,7 +21,7 @@ function App() {
         Amanda Deng
         </Text>
         <Paragraph>
-        I’m a junior at MIT studying EECS. Previously a PM/SWE intern - Microsoft, university intern - Greylock Partners, and business operations intern - Karuna Health. I love noodles and catching a good sunset. Excited to be a product manager intern at Splunk this summer!
+        I’m a junior at MIT studying EECS. Previously a PM/SWE intern @ Microsoft, university intern @ Greylock Partners, and business operations intern @ Karuna Health. I love noodles and catching a good sunset. Excited to be a product manager intern at Splunk this summer!
         </Paragraph>
         <Stars src={stars} alt="pic"></Stars>
         <AmandaPic src={amanda} alt="amandapic"></AmandaPic>
