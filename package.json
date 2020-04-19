@@ -11,7 +11,7 @@
     "react-scripts": "3.3.0",
     "styled-components": "^4.4.1"
   },
-  "homepage": "https://amandadeng.com",
+  "homepage": "https://amandadeng.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
